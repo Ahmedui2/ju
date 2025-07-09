@@ -1,0 +1,16 @@
+{
+  "name": "discord-responsibilities-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for managing responsibilities and points system",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.3.1"
+  },
+  "engines": {
+    "node": ">=16.9.0"
+  }
+}
